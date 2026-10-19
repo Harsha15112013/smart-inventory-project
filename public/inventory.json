@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "quantity": 42,
+    "reorderLevel": 10
+  },
+  {
+    "id": 2,
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "quantity": 8,
+    "reorderLevel": 12
+  },
+  {
+    "id": 3,
+    "name": "A4 Notebook",
+    "category": "Office Supplies",
+    "quantity": 120,
+    "reorderLevel": 25
+  },
+  {
+    "id": 4,
+    "name": "Black Marker Set",
+    "category": "Office Supplies",
+    "quantity": 0,
+    "reorderLevel": 15
+  }
+]
